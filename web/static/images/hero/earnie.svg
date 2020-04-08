@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 284.6 398" style="enable-background:new 0 0 284.6 398;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2B3C45;}
+	.st1{fill:#F1F1F1;}
+	.st2{fill:#F8F8F8;}
+	.st3{fill:#D1D3D4;}
+	.st4{fill:#2B3C45;stroke:#2B3C45;stroke-width:0.72;}
+	.st5{filter:url(#filter-8);}
+	.st6{fill:url(#path-7_2_);stroke:#DFF0FF;stroke-width:1.44;}
+	.st7{filter:url(#filter-9);}
+	.st8{fill:none;stroke:#DFF4FF;}
+	.st9{fill:none;stroke:#E0F5FF;}
+	.st10{fill:#F34747;}
+	.st11{fill:#F36847;}
+	.st12{fill:#F39947;}
+	.st13{fill:#F3C347;}
+	.st14{fill:#99AAB3;}
+	.st15{fill:#ACB7C6;}
+	.st16{fill:#F8F8F8;stroke:#FFFFFF;stroke-width:1.44;}
+	.st17{filter:url(#Adobe_OpacityMaskFilter);}
+	.st18{fill:#FFFFFF;}
+	.st19{mask:url(#mask-11_1_);fill:#C0D9F7;stroke:#FFFFFF;stroke-width:0.72;}
+	.st20{fill:#626F7D;}
+	.st21{fill:#3A97FF;stroke:#F8F8F8;stroke-width:3.6;}
+	.st22{fill:#3B97FE;stroke:#F8F8F8;stroke-width:3.6;}
+	.st23{fill:#25364A;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="138.5%" id="filter-9" width="128.0%" x="-14.0%" y="-25.6%">
+	<feOffset  dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" result="shadowMatrixOuter1" type="matrix" values="0 0 0 0 0.878431373   0 0 0 0 0.956862745   0 0 0 0 1  0 0 0 0.544214221 0">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="263.9%" id="filter-8" width="227.2%" x="-63.6%" y="-108.2%">
+	<feMorphology  in="SourceAlpha" operator="dilate" radius="1.72" result="shadowSpreadOuter1"></feMorphology>
+	<feOffset  dx="0" dy="-10" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"></feGaussianBlur>
+	<feComposite  in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.478199968   0 0 0 0 0.738036533   0 0 0 0 1  0 0 0 0.745103034 0">
+		</feColorMatrix>
+</filter>
+<g id="earnie" transform="translate(1714.000000, 1402.000000)">
+	<g id="left-arm" transform="translate(55.589286, 132.221106)">
+		<g id="l-arm-joint" transform="translate(30.000000, 0.000000)">
+			<path id="Path-17" class="st0" d="M-1704.4-1397.7c-4.3,2.2-6.8,3.9-7.6,5.3c-1.2,2.1-1.9,8.4,0,8.4s5.4-0.4,7.6-2.7
+				C-1703-1388.3-1703-1391.9-1704.4-1397.7z"/>
+			<path id="Oval-2" class="st0" d="M-1704.3-1381.9c-1.7,0-3-4.5-3-10.1s1.4-10.1,3-10.1c1.7,0,3,4.5,3,10.1
+				S-1702.7-1381.9-1704.3-1381.9z"/>
+		</g>
+		<path id="l-arm" class="st1" d="M-1690-1392.9c-8.9,7.2-18.9,17-22.5,42c-1.6,10.9-1.4,18.2,2.6,23.8c4,5.6,16.5-29.6,26.1-44.1
+			S-1681.1-1400.1-1690-1392.9z"/>
+	</g>
+	<g id="body" transform="translate(88.076531, 117.849246)">
+		<path id="Path-15" class="st2" d="M-1712.8-1387.4c-0.1,35.8,0.9,56.5,3,62.3c3.2,8.6,14.9,32.5,59.6,32.5
+			c44.7,0,56.3-22.9,58.7-32.5c2.4-9.6,2.8-62.3,2.6-62.3C-1588.9-1387.4-1630.2-1387.4-1712.8-1387.4z"/>
+		<path id="Oval-23" class="st3" d="M-1658.1-1387.3c34.3,0,69.5,5.3,69.5,0s-27.8-14.7-62.1-14.7s-62.1,9.2-62.1,14.7
+			S-1692.4-1387.3-1658.1-1387.3z"/>
+		<g id="energy" transform="translate(25.267857, 22.276382)">
+			<ellipse id="Oval-24" class="st4" cx="-1681.7" cy="-1377.9" rx="31.8" ry="24.1"/>
+			<g id="Oval-24_1_">
+				<g class="st5">
+					<ellipse id="path-7_2_" cx="-1681.7" cy="-1379.4" rx="24.5" ry="19"/>
+				</g>
+				<g>
+					
+						<linearGradient id="path-7_2_" gradientUnits="userSpaceOnUse" x1="-2011.5348" y1="-951.2783" x2="-2011.5348" y2="-952.2493" gradientTransform="matrix(49.0918 0 0 -38.0854 97068.2109 -37628.0039)">
+						<stop  offset="0" style="stop-color:#83C0FE"/>
+						<stop  offset="1" style="stop-color:#65AEFE"/>
+					</linearGradient>
+					<ellipse id="path-7_1_" class="st6" cx="-1681.7" cy="-1379.4" rx="24.5" ry="19"/>
+				</g>
+			</g>
+		</g>
+		<g id="grid" transform="translate(31.923469, 26.150754)" class="st7">
+			<path id="Path-30_1_" class="st8" d="M-1712.9-1385.1c5.6-3.6,13.1-5.4,22.6-5.4c9.5,0,18.2,1.8,26.2,5.4"/>
+			<path id="Path-31_1_" class="st8" d="M-1688.7-1402c-0.5,3.9-0.8,9.4-0.8,16.5s0.3,14.3,0.8,21.7"/>
+			<path id="Path-32_1_" class="st8" d="M-1677.3-1400.2c3.5,5.1,5.2,10.3,5.2,15.8c0,5.5-1.7,11.6-5.2,18.3"/>
+			<path id="Path-33_1_" class="st8" d="M-1699.7-1400.1c-3.2,4-4.8,8.7-4.8,14.2c0,5.4,1.6,12,4.8,19.7"/>
+			<path id="Path-34_1_" class="st9" d="M-1712.1-1378.5c6.4,1.6,13.9,2.4,22.5,2.4s17-0.8,25.1-2.4"/>
+			<path id="Path-35_1_" class="st8" d="M-1711.3-1390.2c6.6-5.9,14-8.9,22.2-8.9s16.1,3,23.5,8.9"/>
+		</g>
+		<g id="highlight" transform="translate(26.923469, 65.150754)">
+			
+				<ellipse id="Oval-29" transform="matrix(0.7431 -0.6691 0.6691 0.7431 495.3242 -1500.6362)" class="st10" cx="-1707" cy="-1395.5" rx="4.5" ry="3.5"/>
+			<path id="Oval-29-Copy" class="st11" d="M-1693.3-1385.2c1.8,0.6,3.9-0.9,4.7-3.3c0.7-2.4-0.2-4.8-2-5.3
+				c-1.8-0.6-3.9,0.9-4.7,3.3C-1696.1-1388.1-1695.1-1385.8-1693.3-1385.2z"/>
+			
+				<ellipse id="Oval-29-Copy-2" transform="matrix(0.9703 -0.2419 0.2419 0.9703 286.3963 -446.4893)" class="st12" cx="-1675" cy="-1389.5" rx="3.5" ry="4.5"/>
+			
+				<ellipse id="Oval-29-Copy-3" transform="matrix(0.6947 -0.7193 0.7193 0.6947 496.6713 -1620.9156)" class="st13" cx="-1661" cy="-1395.5" rx="3.5" ry="4.5"/>
+		</g>
+	</g>
+	<g id="head">
+		
+			<ellipse id="Oval-22" transform="matrix(0.4226 -0.9063 0.9063 0.4226 359.3786 -2091.1399)" class="st14" cx="-1461.5" cy="-1327.6" rx="26.9" ry="20.9"/>
+		
+			<ellipse id="Oval-22-Copy" transform="matrix(0.866 -0.5 0.5 0.866 434.9261 -1016.9944)" class="st15" cx="-1680.3" cy="-1320.1" rx="20.9" ry="29.5"/>
+		<path id="Path-12" class="st16" d="M-1656.5-1298.9c-16.3-7.7-27-19.8-32-36.5c-7.6-25,26.2-49.6,32-52.5
+			c20.6-10.4,122.5-19.2,166.4-8.5c20.7,5.1,42.3,31.6,42.3,46.3s-23.2,58.7-43.7,52.4C-1511.7-1303.9-1566.7-1304.3-1656.5-1298.9z
+			"/>
+		<g id="Path-13" transform="translate(23.102041, 0.000000)">
+			<g id="Mask">
+				<path id="path-10_1_" class="st2" d="M-1679.7-1299.1c-16.3-7.7-27-19.8-32-36.5c-7.6-25,26.2-49.7,32-52.6
+					c20.6-10.4,122.5-19.3,166.3-8.5c20.7,5.1,42.3,31.6,42.3,46.4s-23.2,58.8-43.7,52.5
+					C-1534.9-1304.1-1589.9-1304.5-1679.7-1299.1z"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-1713.5" y="-1369.6" width="243.8" height="86.2">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="-1713.5" y="-1369.6" width="243.8" height="86.2" id="mask-11_1_">
+				<g class="st17">
+					<path id="path-10_2_" class="st18" d="M-1679.7-1299.1c-16.3-7.7-27-19.8-32-36.5c-7.6-25,26.2-49.7,32-52.6
+						c20.6-10.4,122.5-19.3,166.3-8.5c20.7,5.1,42.3,31.6,42.3,46.4s-23.2,58.8-43.7,52.5
+						C-1534.9-1304.1-1589.9-1304.5-1679.7-1299.1z"/>
+				</g>
+			</mask>
+			<path class="st19" d="M-1713.1-1341c82.3-21.5,149.4-26.9,201.5-16.1c0,0,5-4,15-11.9l9.1,14c9,1.4,14.7,3.1,17,5
+				c2.3,1.9-3.4,22.3-17,61.3l-212.7,5.1L-1713.1-1341z"/>
+		</g>
+		<path id="Path-11" class="st20" d="M-1627.8-1289.2c-12.1-2.1-19.6-1-28.2-9.4s116.4-24.6,169,1c2,0-9.4,7.9-26.4,9.7
+			C-1530.5-1286-1604.9-1285.2-1627.8-1289.2z"/>
+		
+			<ellipse id="Oval-21" transform="matrix(0.9903 -0.1392 0.1392 0.9903 173.6152 -235.6731)" class="st21" cx="-1598.3" cy="-1359.2" rx="20.2" ry="9.3"/>
+		
+			<ellipse id="Oval-21-Copy" transform="matrix(0.1392 -0.9903 0.9903 0.1392 38.8886 -2675.1885)" class="st22" cx="-1519.3" cy="-1360" rx="8.6" ry="17"/>
+		<g id="Group" transform="translate(92.408163, 100.603015)">
+			<ellipse id="Oval-20" class="st23" cx="-1655" cy="-1393.1" rx="58.5" ry="8.9"/>
+			<path id="Path-14" class="st23" d="M-1711.7-1392.3h112.7c-10.7,11.8-29.5,17.8-56.4,17.8S-1701-1380.4-1711.7-1392.3z"/>
+		</g>
+	</g>
+	<g id="right-arm" transform="translate(209.362245, 136.532663)">
+		<g id="r-arm-joint">
+			<path id="Path-17_1_" class="st0" d="M-1710-1397.5c4,2.2,6.4,3.9,7.2,5.3c1.1,2.1,1.8,8.4,0,8.4s-5.1-0.4-7.2-2.7
+				C-1711.4-1388.1-1711.4-1391.8-1710-1397.5z"/>
+			<ellipse id="Oval-2_1_" class="st0" cx="-1710.6" cy="-1391.9" rx="2.9" ry="10.1"/>
+		</g>
+		<path id="r-arm" class="st2" d="M-1696-1392.9c8.5,7.2,18,17,21.4,42c1.5,10.9,1.4,18.2-2.5,23.8s-15.7-29.6-24.7-44.1
+			C-1710.9-1385.8-1704.5-1400.1-1696-1392.9z"/>
+	</g>
+	<g id="right-leg" transform="translate(184.000000, 202.000000)">
+		<g id="r-leg-joint">
+			
+				<ellipse id="Oval-25" transform="matrix(0.7771 -0.6293 0.6293 0.7771 496.3439 -1380.5737)" class="st0" cx="-1701.1" cy="-1391.1" rx="11.9" ry="3.6"/>
+			<path id="Path-19" class="st0" d="M-1704.1-1386.2l0.7,8.3c4.5-0.6,6.9-1.4,7.4-2.5c0.7-1.7,1.5-11.7,1.2-13.5
+				C-1695-1395-1698.1-1392.5-1704.1-1386.2z"/>
+		</g>
+		<path id="r-leg" class="st2" d="M-1707.7-1376.5c1.6-7.7,13.9-16.4,20.3-9.5c6.4,6.9,3.4,58.2-6.2,66c-4.5,3.6-6-3.3-7.1-6.6
+			C-1701.9-1330-1709.4-1368.8-1707.7-1376.5z"/>
+	</g>
+	<g id="left-leg" transform="translate(88.000000, 204.000000)">
+		<g id="l-leg-joint" transform="translate(8.798469, 0.798995)">
+			<path id="Oval-25-Copy" class="st0" d="M-1693.8-1386.4c-1.3,1.5-6.5-0.5-11.8-4.7c-5.2-4.1-8.4-8.7-7.1-10.3s6.5,0.5,11.8,4.7
+				C-1695.7-1392.6-1692.5-1388-1693.8-1386.4z"/>
+			<path id="Path-19-Copy" class="st0" d="M-1700.9-1389l-0.7,8.3c-4.6-0.6-7.1-1.4-7.5-2.5c-0.7-1.7-1.6-11.7-1.2-13.5
+				C-1710.2-1397.8-1707-1395.3-1700.9-1389z"/>
+		</g>
+		<path id="l-leg" class="st2" d="M-1688.4-1378.5c-1.7-7.7-14.2-16.4-20.7-9.5s-3.5,58.2,6.3,66c4.6,3.6,6.1-3.3,7.3-6.6
+			C-1694.4-1332-1686.8-1370.8-1688.4-1378.5z"/>
+	</g>
+</g>
+</svg>
