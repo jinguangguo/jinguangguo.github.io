@@ -152,6 +152,7 @@ $.fn.extend({
         $(this).focus();
         var selection = window.getSelection ? window.getSelection() : document.selection;
         var range;
+        alert(111);
         if(this.range) {
             range = this.range;
             this.range = null;
@@ -163,6 +164,7 @@ $.fn.extend({
             range.collapse(false);
             range.select();
         } else {
+            alert(222);
             range.collapse(false);
             var hasR = range.createContextualFragment(src);
             var hasLastChild = hasR.lastChild;
@@ -180,7 +182,9 @@ $.fn.extend({
             selection.removeAllRanges();
             selection.addRange(range);
         }
+        alert(333);
         if (this._opt.formInputId && $('#' + this._opt.formInputId)[0]) {
+            alert(444);
             $('#' + this._opt.formInputId).val(this.getValue());
         }
     },
